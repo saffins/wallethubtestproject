@@ -1,0 +1,12 @@
+06/09/2021 17:41:37 devLogger launching Wallethub application
+06/09/2021 17:41:37 devLogger clicked on login button
+06/09/2021 17:41:38 devLogger entered username
+06/09/2021 17:41:38 devLogger entered password
+06/09/2021 17:41:38 devLogger clicked on login button
+06/09/2021 17:41:46 devLogger logged into wallethub
+06/09/2021 17:41:51 devLogger opened review URL to post and submit the review
+06/09/2021 17:41:51 devLogger clicked on review button to navigate to reviews section
+06/09/2021 17:41:51 devLogger hover over 4th star
+06/09/2021 17:41:51 devLogger hover over 4th star
+06/09/2021 17:41:51 devLogger storing number of highlighted starts in List type of webelement
+06/09/2021 17:41:51 devLogger Number of highlighted stars are 4

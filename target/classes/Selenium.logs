@@ -1,0 +1,12 @@
+17:41:37,360 DEBUG devLogger<strong>{1}</strong>:52 - launching Wallethub application
+17:41:37,887 DEBUG devLogger<strong>{1}</strong>:31 - clicked on login button
+17:41:38,021 DEBUG devLogger<strong>{1}</strong>:34 - entered username
+17:41:38,121 DEBUG devLogger<strong>{1}</strong>:37 - entered password
+17:41:38,184 DEBUG devLogger<strong>{1}</strong>:39 - clicked on login button
+17:41:46,977 DEBUG devLogger<strong>{1}</strong>:66 - logged into wallethub
+17:41:51,023 DEBUG devLogger<strong>{1}</strong>:70 - opened review URL to post and submit the review
+17:41:51,145 DEBUG devLogger<strong>{1}</strong>:47 - clicked on review button to navigate to reviews section
+17:41:51,394 DEBUG devLogger<strong>{1}</strong>:52 - hover over 4th star
+17:41:51,542 DEBUG devLogger<strong>{1}</strong>:56 - hover over 4th star
+17:41:51,562 DEBUG devLogger<strong>{1}</strong>:60 - storing number of highlighted starts in List type of webelement
+17:41:51,562 DEBUG devLogger<strong>{1}</strong>:62 - Number of highlighted stars are 4

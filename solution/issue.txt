@@ -1,0 +1,9 @@
+i am stuck on the last step of the test where i am trying to submit my review in the end of test case
+the Submit button doesnt work
+seems like there is a bug in this application which occurs when we submit a review
+sometimes the button is clickable and sometimes not , it's even showing error "WE ENCOUNTERED AN ERROR. PLEASE RETRY" most of times 
+i even noticed that clicking on submit doesn't redirect me to next page and the application stays at same page while my entered review gets removed and selected policy also gets removed automatically from the policy list
+
+i even tried to include SikuliX an image based automation library in the project which simulates mouse and keyboard actions to click on that submit button and even after that submit button is clicked , the review is not getting submitted and i see some random issues
+
+Please find screenshot of the issue in this solution folder
